@@ -39,4 +39,4 @@ Training
 --------
 Train the optimized condition model with this command (data3 means E. coli):
 
-python genenet.py --data-name data3 --bio-mean 0.4 --bio-std-dev 0.0
+python genenet.py --data-name data3 --bio-mean -0.6 --bio-std-dev 0.5
