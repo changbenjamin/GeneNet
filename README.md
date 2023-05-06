@@ -1,4 +1,4 @@
-GeneNet: Noise Injection for Improved GRN Link Prediction
+GeneNet: Noise in Gene Regulatory Networks Improves Graph Neural Network Link Prediction
 ===============================================================================
 
 About
