@@ -19,10 +19,9 @@ If you want to enable embeddings for link prediction, please install the network
 
 Installation
 ------------
-Type
 
-Copy code
 bash install.sh
+
 to install the required software and libraries. Node2vec and DGCNN are included in the software folder.
 
 Usages
