@@ -1,17 +1,17 @@
-GRGNN -- Gene Regulatory Graph Neural Network
+GeneNet: Noise Injection for Improved GRN Link Prediction
 ===============================================================================
 
 About
 -----
 
-Gene regulatory graph neural network (GRGNN): an end-to-end approach to reconstruct GRNs from scratch utilizing the gene expression data, in both a supervised and a semi-supervised framework. 
+GeneNet is a novel framework for link prediction in gene regulatory networks (GRNs) that employs the Gene Regulatory Graph Neural Network (GRGNN) framework and utilizes noise injection to improve model performance. The GRGNN framework leverages the Dynamic Graph CNN (DGCNN) classifier for GRN inference. GeneNet proposes a method for regularizing link prediction through data preprocessing, specifically through the addition of Gaussian noise, which simulates the biological noise processes applied to the raw inputs of GRNs. The model outperforms current state-of-the-art models on the DREAM5 challenge dataset.
 
-Preprocessing script is provided, readers can use the data directly or generate the data by downloading the DREAM5 challenge data from https://www.synapse.org/#!Synapse:syn3130840
+The dataset used for training the model is the E. coli gene expression data from the DREAM5 challenge. The dataset can be found here: www.synapse.org/#!Synapse:syn2787209/wiki/
 
 Requirements
 ------------
 
-Tested with Python 3.7.3, Pytorch 1.12.0 on Ubuntu 16.04
+Tested with Python 3.7.3, Pytorch 1.12.0 on Linux
 
 Required python libraries: gensim and scipy; all python libraries required by pytorch_DGCNN are networkx, tqdm, sklearn etc.
 
@@ -21,45 +21,23 @@ Installation
 ------------
 Type
 
-    bash install.sh
-
-to install the required software and libraries. [Node2vec](https://github.com/aditya-grover/node2vec) and [DGCNN](https://github.com/muhanzhang/pytorch_DGCNN) are included in software folder. 
-
+Copy code
+bash install.sh
+to install the required software and libraries. Node2vec and DGCNN are included in the software folder.
 
 Usages
 ------
-1. Unzip DREAM5 data
+Unzip DREAM5 data
 
-    cd data/dream
+cd data/dream
 
-    unzip dreamdata.zip
+unzip dreamdata.zip
 
-    cd ../../
-
-2. (Optional): Preprocessing DREAM5 data
-
-    cd preprocessing
-
-    python Preprocessing_DREAM5.py 3
-
-    python Preprocessing_DREAM5.py 4
-
-3. In this program, for simple, data3 means E.coli dataset, data4 means S. cerevisae dataset
-Train S. cerevisae and test on E. coli with default parameters, Type:
-
-    python Main_inductive_ensemble.py  --traindata-name data4 --testdata-name data3
-
-Train S. cerevisae and test on E. coli with hop 1 and embedding, Type:
-
-    python Main_inductive_ensemble.py  --traindata-name data4 --testdata-name data3 --hop 1 --use-embedding
-
-Train E. coli and test on S. cerevisae with hop 1 and embedding, Type:
-
-    python Main_inductive_ensemble.py  --traindata-name data3 --testdata-name data4 --hop 1 --use-embedding
+cd ../../
 
 
-References:
-------------
-1. SEAL code: https://github.com/muhanzhang/SEAL
-2. Dream data: http://dreamchallenges.org/project/dream-5-network-inference-challenge/ 
+Training
+--------
+Train the optimized condition model with this command (data3 means E. coli):
 
+python genenet.py --data-name data3 --bio-mean 0.4 --bio-std-dev 0.0
