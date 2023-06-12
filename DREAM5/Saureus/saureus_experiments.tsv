@@ -1,0 +1,161 @@
+Author	Strain	Description
+M. Peteroy-Kelly	ATCC25923	WT cells, untreated, replicate 1
+M. Peteroy-Kelly	ATCC25923	WT cells, untreated, replicate 2
+M. Peteroy-Kelly	ATCC25923	WT cells, untreated, replicate 3
+M. Peteroy-Kelly	JJ5	JJ5 mutant cells (ciprofloxacin resistant), untreated, replicate 1
+M. Peteroy-Kelly	JJ5	JJ5 mutant cells (ciprofloxacin resistant), untreated, replicate 2
+M. Peteroy-Kelly	JJ5	JJ5 mutant cells (ciprofloxacin resistant), untreated, replicate 3
+M. Peteroy-Kelly	ATCC25923	WT cells treated with triclosan (1ug/mL), replicate 1
+M. Peteroy-Kelly	ATCC25923	WT cells treated with triclosan (1ug/mL), replicate 2
+M. Peteroy-Kelly	ATCC25923	WT cells treated with triclosan (1ug/mL), replicate 3
+M. Peteroy-Kelly	JJ5	JJ5 mutant cells (ciprofloxacin resistant), treated with triclosan (1ug/mL), replicate 1
+M. Peteroy-Kelly	JJ5	JJ5 mutant cells (ciprofloxacin resistant), treated with triclosan (1ug/mL), replicate 2
+M. Peteroy-Kelly	JJ5	JJ5 mutant cells (ciprofloxacin resistant), treated with triclosan (1ug/mL), replicate 3
+D. Wang	ATCC25923	WT cells, untreated, t=45min, replicate 1
+D. Wang	ATCC25923	WT cells, untreated, t=45min, replicate 2
+D. Wang	ATCC25923	WT cells, untreated, t=45min, replicate 3
+D. Wang	ATCC25923	WT cells, treated with berberine (64ug/mL), t=45min, replicate 1
+D. Wang	ATCC25923	WT cells, treated with berberine (64ug/mL), t=45min, replicate 2
+D. Wang	ATCC25923	WT cells, treated with berberine (64ug/mL), t=45min, replicate 3
+L. Yu	ATCC25923	WT cells, untreated, t=45min, replicate 1
+L. Yu	ATCC25923	WT cells, untreated, t=45min, replicate 2
+L. Yu	ATCC25923	WT cells, untreated, t=45min, replicate 3
+L. Yu	ATCC25923	WT cells, treated with rhein (8ug/mL), t=45min, replicate 1
+L. Yu	ATCC25923	WT cells, treated with rhein (8ug/mL), t=45min, replicate 2
+L. Yu	ATCC25923	WT cells, treated with rhein (8ug/mL), t=45min, replicate 3
+J. Yarwood	FRI1169	FRI1169 WT cells, untreated, replicate 1
+J. Yarwood	FRI1169	FRI1169 WT cells, untreated, replicate 2
+J. Yarwood	FRI1169 non-hemolytic	FRI1169 non-hemolytic variant cells, untreated, replicate 1
+J. Yarwood	FRI1169 non-hemolytic	FRI1169 non-hemolytic variant cells, untreated, replicate 2
+X. Deng	ATCC25923	WT cells batch1, untreated, t=45min, replicate 1
+X. Deng	ATCC25923	WT cells batch1 treated with eugenol (250ug/mL), t=45min, replicate 1
+H. Jang	NCTC 8325	WT cells, untreated, t=0min, replicate 1
+H. Jang	NCTC 8325	WT cells, untreated, t=0min, replicate 2
+H. Jang	NCTC 8325	WT cells, untreated, t=0min, replicate 3
+H. Jang	NCTC 8325	WT cells, untreated, t=0min, replicate 4
+H. Jang	NCTC 8325	WT cells, untreated, t=0min, replicate 5
+H. Jang	NCTC 8325	WT cells treated with triclosan (0.05uM), t=10min, replicate 1
+H. Jang	NCTC 8325	WT cells treated with triclosan (0.05uM), t=10min, replicate 2
+H. Jang	NCTC 8325	WT cells treated with triclosan (0.05uM), t=10min, replicate 3
+H. Jang	NCTC 8325	WT cells treated with triclosan (0.05uM), t=10min, replicate 4
+H. Jang	NCTC 8325	WT cells treated with triclosan (0.05uM), t=10min, replicate 5
+H. Jang	NCTC 8325	WT cells treated with triclosan (0.05uM), t=60min, replicate 1
+H. Jang	NCTC 8325	WT cells treated with triclosan (0.05uM), t=60min, replicate 2
+H. Jang	NCTC 8325	WT cells treated with triclosan (0.05uM), t=60min, replicate 3
+H. Jang	NCTC 8325	WT cells treated with triclosan (0.05uM), t=60min, replicate 4
+H. Jang	NCTC 8325	WT cells treated with triclosan (0.05uM), t=60min, replicate 5
+B. Diep	SF8300	WT cells, exponential phase, replicate 1
+B. Diep	SF8300	WT cells, exponential phase, replicate 2
+B. Diep	SF8300	WT cells, exponential phase, replicate 3
+B. Diep	SF8300	WT cells, stationary phase, replicate 1
+B. Diep	SF8300	WT cells, stationary phase, replicate 2
+B. Diep	SF8300	WT cells, stationary phase, replicate 3
+B. Diep	SF8300	D SCCmec, exponential phase, replicate 1
+B. Diep	SF8300	D SCCmec, exponential phase, replicate 2
+B. Diep	SF8300	D SCCmec, exponential phase, replicate 3
+B. Diep	SF8300	D SCCmec, stationary phase, replicate 1
+B. Diep	SF8300	D SCCmec, stationary phase, replicate 2
+B. Diep	SF8300	D SCCmec, stationary phase, replicate 3
+B. Diep	SF8300	D ACME, exponential phase, replicate 1
+B. Diep	SF8300	D ACME, exponential phase, replicate 2
+B. Diep	SF8300	D ACME, exponential phase, replicate 3
+B. Diep	SF8300	D ACME, stationary phase, replicate 1
+B. Diep	SF8300	D ACME, stationary phase, replicate 2
+B. Diep	SF8300	D ACME, stationary phase, replicate 3
+B. Diep	SF8300	D SCCmec D ACME, exponential phase, replicate 1
+B. Diep	SF8300	D SCCmec D ACME, exponential phase, replicate 2
+B. Diep	SF8300	D SCCmec D ACME, exponential phase, replicate 3
+B. Diep	SF8300	D SCCmec D ACME, stationary phase, replicate 1
+B. Diep	SF8300	D SCCmec D ACME, stationary phase, replicate 2
+B. Diep	SF8300	D SCCmec D ACME, stationary phase, replicate 3
+B. Corbin	Newman	WT cells, untreated, replicate 1
+B. Corbin	Newman	WT cells, untreated, replicate 2
+B. Corbin	Newman	WT cells, grown in the presence of calprotectin, replicate 1
+B. Corbin	Newman	WT cells, grown in the presence of calprotectin, replicate 2
+B. Corbin	Newman	WT cells, grown in the presence of calprotectin, replicate 3
+B. Corbin	Newman	WT cells grown in the absence of Mn, replicate 1
+B. Corbin	Newman	WT cells grown in the absence of Mn, replicate 2
+B. Corbin	Newman	WT cells, grown in the absence of Zn, replicate 1
+B. Corbin	Newman	WT cells, grown in the absence of Zn, replicate 2
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=0min, replicate 1
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=0min, replicate 2
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=0min, replicate 3
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=0min, replicate 4
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=0min, replicate 5
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=20min, replicate 1
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=20min, replicate 2
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=20min, replicate 3
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=20min, replicate 4
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=20min, replicate 5
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=60min, replicate 1
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=60min, replicate 2
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=60min, replicate 3
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=60min, replicate 4
+H. Jang	NCTC 8325	WT cells treated with ortho-polyphenol (0.82mM), t=60min, replicate 5
+P. Chen	Newman	WT cells, exponential phase (2h), replicate 1
+P. Chen	Newman	WT cells, exponential phase (2h), replicate 2
+P. Chen	Newman	WT cells, exponential phase (2h), replicate 3
+P. Chen	Newman	WT cells, stationary phase (5h), replicate 1
+P. Chen	Newman	WT cells, stationary phase (5h), replicate 2
+P. Chen	Newman	WT cells, stationary phase (5h), replicate 3
+P. Chen	Newman	D sarZ, exponential phase (2h), replicate 1
+P. Chen	Newman	D sarZ, exponential phase (2h), replicate 2
+P. Chen	Newman	D sarZ, stationary phase (5h), replicate 1
+P. Chen	Newman	D sarZ, stationary phase (5h), replicate 2
+P. Chen	Newman	D sarZ, stationary phase (5h), replicate 3
+X. Deng	ATCC25923	WT cells batch2, untreated, t=45min, replicate 1
+X. Deng	ATCC25923	WT cells batch2, untreated, t=45min, replicate 2
+X. Deng	ATCC25923	WT cells batch2, untreated, t=45min, replicate 3
+X. Deng	ATCC25923	WT cells batch2, cryptotanshinone, t=45min, replicate 1
+X. Deng	ATCC25923	WT cells batch2, cryptotanshinone, t=45min, replicate 2
+X. Deng	ATCC25923	WT cells batch2, cryptotanshinone, t=45min, replicate 3
+X. Deng	ATCC25923	WT cells batch3, untreated, t=45min, replicate 1
+X. Deng	ATCC25923	WT cells batch3, untreated, t=45min, replicate 2
+X. Deng	ATCC25923	WT cells batch3 treated with magnolol, t=45min, replicate 1
+X. Deng	ATCC25923	WT cells batch3 treated with magnolol, t=45min, replicate 2
+X. Deng	ATCC25923	WT cells batch3 treated with magnolol, t=45min, replicate 3
+X. Deng	ATCC25923	WT cells batch3 treated with sodium houttuyfonate, t=45min, replicate 1
+X. Deng	ATCC25923	WT cells batch3 treated with sodium houttuyfonate, t=45min, replicate 2
+X. Deng	ATCC25923	WT cells batch3 treated with sodium houttuyfonate, t=45min, replicate 3
+C. Balibar	RN4220	WT cells, uninduced, replicate 1
+C. Balibar	RN4220	WT cells, uninduced, replicate 2
+C. Balibar	RN4220	WT cells, uninduced, replicate 3
+C. Balibar	RN4220	mvaA, uninduced, replicate 1
+C. Balibar	RN4220	mvaA, uninduced, replicate 2
+C. Balibar	RN4220	mvaA, uninduced, replicate 3
+C. Balibar	RN4220	mvaK, uninduced, replicate 1
+C. Balibar	RN4220	mvaK, uninduced, replicate 2
+C. Balibar	RN4220	mvaK, uninduced, replicate 3
+C. Balibar	RN4220	mvaS, uninduced, replicate 1
+C. Balibar	RN4220	mvaS, uninduced, replicate 2
+C. Balibar	RN4220	mvaS, uninduced, replicate 3
+C. Balibar	RN4220	WT cells, induction control, replicate 1
+C. Balibar	RN4220	WT cells, induction control, replicate 2
+C. Balibar	RN4220	WT cells, induction control, replicate 3
+C. Balibar	RN4220	mvaA, induced (IPTG), replicate 1
+C. Balibar	RN4220	mvaA, induced (IPTG), replicate 2
+C. Balibar	RN4220	mvaA, induced (IPTG), replicate 3
+C. Balibar	RN4220	mvaK, induced (IPTG), replicate 1
+C. Balibar	RN4220	mvaK, induced (IPTG), replicate 2
+C. Balibar	RN4220	mvaK, induced (IPTG), replicate 3
+C. Balibar	RN4220	mvaS, induced (IPTG), replicate 1
+C. Balibar	RN4220	mvaS, induced (IPTG), replicate 2
+C. Balibar	RN4220	mvaS, induced (IPTG), replicate 3
+J. Schmidt	NCTC 8325	WT cells, untreated, replicate 1
+J. Schmidt	NCTC 8325	WT cells, untreated, replicate 2
+J. Schmidt	NCTC 8325	WT cells, untreated, replicate 3
+J. Schmidt	NCTC 8325	WT cells treated with ramoplanin (4ug/mL), replicate 1
+J. Schmidt	NCTC 8325	WT cells treated with ramoplanin (4ug/mL), replicate 2
+J. Schmidt	NCTC 8325	WT cells treated with ramoplanin (4ug/mL), replicate 3
+J. Schmidt	RSPA16	WT cells, untreated, replicate 1
+J. Schmidt	RSPA16	WT cells, untreated, replicate 2
+J. Schmidt	RSPA16	WT cells, untreated, replicate 3
+J. Schmidt	RSPA16	WT cells treated with ramoplanin (12ug/mL), replicate 1
+J. Schmidt	RSPA16	WT cells treated with ramoplanin (12ug/mL), replicate 2
+J. Schmidt	RSPA16	WT cells treated with ramoplanin (12ug/mL), replicate 3
+D. Hooper	Unknown	Stationary phase cells, replicate 1
+D. Hooper	Unknown	Stationary phase cells, replicate 2
+D. Hooper	Unknown	Stationary phase cells, replicate 3
+D. Hooper	Unknown	Abcess cells (from infected mice), replicate 1
+D. Hooper	Unknown	Abcess cells (from infected mice), replicate 2
+D. Hooper	Unknown	Abcess cells (from infected mice), replicate 3
