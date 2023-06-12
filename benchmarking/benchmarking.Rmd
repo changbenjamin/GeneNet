@@ -73,8 +73,11 @@ weights = GENIE3(as.matrix(expr_mtx), nCores = 10, verbose = T)
 # load minet package
 library(minet)
 
+# transpose matrix
+expr_mtx_t = t(expr_mtx)
+
 # run MINET calculations
-mr = minet(expr_mtx, method = "mrnet", estimator = "spearman")
-ar = minet(expr_mtx, method = "aracne", estimator = "spearman")
-clr = minet(expr_mtx, method = "clr", estimator = "spearman")
+mr = minet(expr_mtx_t, method = "mrnet", estimator = "spearman")
+ar = minet(expr_mtx_t, method = "aracne", estimator = "spearman")
+clr = minet(expr_mtx_t, method = "clr", estimator = "spearman")
 ```
