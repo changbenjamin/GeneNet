@@ -1,5 +1,0 @@
-"ID","name","versionNumber","contentType","dataFileSizeBytes","createdBy","createdOn","modifiedBy","modifiedOn","parentId","synapseURL","dataFileMD5Hex"
-"syn3130856","yeast_tf_names.tsv","1","text/tab-separated-values","1468","1918749","1421682294239","1918749","1421682294239","syn3130844","https://www.synapse.org/#!Synapse:syn3130856.1","a3a5974fcac9f5fc6c57db3f1096ab6f"
-"syn3130854","yeast_experiments.tsv","1","text/tab-separated-values","35784","1918749","1421682281165","1918749","1421682281165","syn3130844","https://www.synapse.org/#!Synapse:syn3130854.1","ac177e3b93306112360849530523f951"
-"syn3130855","yeast_gene_names.tsv","1","text/tab-separated-values","45888","1918749","1421682289464","1918749","1421682289464","syn3130844","https://www.synapse.org/#!Synapse:syn3130855.1","e73d60c99618bf5eaa73056f1c51465f"
-"syn3130853","yeast_data.tsv","1","text/tab-separated-values","20923678","1918749","1421682275453","1918749","1421682275453","syn3130844","https://www.synapse.org/#!Synapse:syn3130853.1","ae38fe34c1d8c519facc678cca02231f"

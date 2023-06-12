@@ -1,5 +1,0 @@
-"ID","name","versionNumber","contentType","dataFileSizeBytes","createdBy","createdOn","modifiedBy","modifiedOn","parentId","synapseURL","dataFileMD5Hex"
-"syn3130848","ecoli_tf_names.tsv","1","text/tab-separated-values","1507","1918749","1421682187247","1918749","1421682187247","syn3130842","https://www.synapse.org/#!Synapse:syn3130848.1","eae1891b8cd60c209334372745c0799c"
-"syn3130847","ecoli_gene_names.tsv","1","text/tab-separated-values","21242","1918749","1421682183321","1918749","1421682183321","syn3130842","https://www.synapse.org/#!Synapse:syn3130847.1","d09cddedabe77f2d08bca32b8d87e866"
-"syn3130846","ecoli_experiments.tsv","1","text/tab-separated-values","32908","1918749","1421682180221","1918749","1421682180221","syn3130842","https://www.synapse.org/#!Synapse:syn3130846.1","5873be4e92c70e108e55587e3c330b8c"
-"syn3130845","ecoli_data.tsv","1","text/tab-separated-values","23829377","1918749","1421682175926","1918749","1421682175926","syn3130842","https://www.synapse.org/#!Synapse:syn3130845.1","d56598aa81e6fd0635e68da0a66b280c"
