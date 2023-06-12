@@ -1,0 +1,5 @@
+"ID","name","versionNumber","contentType","dataFileSizeBytes","createdBy","createdOn","modifiedBy","modifiedOn","parentId","synapseURL","dataFileMD5Hex"
+"syn3130852","saureus_tf_names.tsv","1","text/tab-separated-values","726","1918749","1421682225473","1918749","1421682225473","syn3130843","https://www.synapse.org/#!Synapse:syn3130852.1","e19340083915ef9afd8c51f37c8d7d4f"
+"syn3130850","saureus_experiments.tsv","1","text/tab-separated-values","10775","1918749","1421682218845","1918749","1421682218845","syn3130843","https://www.synapse.org/#!Synapse:syn3130850.1","dbd4c9a22c5322f53e290a10c91f6e0a"
+"syn3130851","saureus_gene_names.tsv","1","text/tab-separated-values","21886","1918749","1421682221810","1918749","1421682221810","syn3130843","https://www.synapse.org/#!Synapse:syn3130851.1","552d24086f7548198b510ca704c155bf"
+"syn3130849","saureus_data.tsv","1","text/tab-separated-values","2950418","1918749","1421682214959","1918749","1421682214959","syn3130843","https://www.synapse.org/#!Synapse:syn3130849.1","88f724f70105da570ba0cde973ebdeb1"
