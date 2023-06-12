@@ -80,4 +80,9 @@ expr_mtx_t = t(expr_mtx)
 mr = minet(expr_mtx_t, method = "mrnet", estimator = "spearman")
 ar = minet(expr_mtx_t, method = "aracne", estimator = "spearman")
 clr = minet(expr_mtx_t, method = "clr", estimator = "spearman")
+
+# save to CSV
+fwrite(mr, here(bdir, "mrnet_weight_matrix.csv"))
+fwrite(ar, here(bdir, "aracne_weight_matrix.csv"))
+fwrite(clr, here(bdir, "clr_weight_matrix.csv"))
 ```
