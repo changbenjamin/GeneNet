@@ -39,8 +39,8 @@ bdir = here("benchmarking")
 
 # read DREAM5 data
 ecoli_data = fread(here(bdir, "ecoli_data.csv"), header = TRUE)
-ecoli_gene_names = fread(here(bdir, "ecoli_gene_names.csv"))
-ecoli_tf_names = fread(here(bdir, "ecoli_tf_names.csv"))
+ecoli_gene_names = fread(here(bdir, "ecoli_gene_names.csv"), header = TRUE)[["0"]]
+ecoli_tf_names = fread(here(bdir, "ecoli_tf_names.csv"), header = TRUE)[["0"]]
 
 # read test data split
 test = fread(here(bdir, "test_dataset.csv"))
@@ -56,18 +56,29 @@ Use GENIE3 to construct connectivity graph. Prepare data in `exprMat` format. Ru
 # set row names
 expr_mtx = as.data.frame(ecoli_data[, -1])
 rownames(expr_mtx) = ecoli_data$Gene
+
+# calculate regulators and targets
+regulators = ecoli_tf_names
+targets = ecoli_gene_names[!ecoli_gene_names %in% regulators]
 ```
 
 Create weight matrix.
 
 ```{r weight-matrix}
 # create weight matrix
-weights = GENIE3(as.matrix(expr_mtx), nCores = 10, verbose = T)
+weights = GENIE3(as.matrix(expr_mtx), regulators = regulators, targets = targets, verbose = T) # nCores = 10
+```
+
+Save to CSV.
+
+```{r save-genie3}
+# save to CSV
+fwrite(as.data.frame(t(weights), row.names = colnames(weights)), here(bdir, "genie3_weight_matrix.csv"), row.names = TRUE)
 ```
 
 # Information-Based Benchmarking
 
-> "The implementation of ARACNE, CLR, and MRNEAT in R package `minet` is employed for analysis."
+> "The implementation of ARACNE, CLR, and MRNET in R package `minet` is employed for analysis."
 
 ```{r information-benchmarking}
 # load minet package
@@ -82,7 +93,33 @@ ar = minet(expr_mtx_t, method = "aracne", estimator = "spearman")
 clr = minet(expr_mtx_t, method = "clr", estimator = "spearman")
 
 # save to CSV
-fwrite(mr, here(bdir, "mrnet_weight_matrix.csv"))
-fwrite(ar, here(bdir, "aracne_weight_matrix.csv"))
-fwrite(clr, here(bdir, "clr_weight_matrix.csv"))
+# fwrite(mr, here(bdir, "mrnet_weight_matrix.csv"), row.names = TRUE)
+# fwrite(ar, here(bdir, "aracne_weight_matrix.csv"), row.names = TRUE)
+# fwrite(clr, here(bdir, "clr_weight_matrix.csv"), row.names = TRUE)
+```
+
+Check if matrices are symmetric.
+
+```{r check-symmetric}
+message("mrnet symmetric? ", all(mr == t(mr)))
+message("aracne symmetric? ", all(ar == t(ar)))
+message("clr symmetric? ", all(clr == t(clr)))
+```
+
+Filter matrices for targets as rows and regulators as columns.
+
+```{r filter-matrices}
+# calculate regulators and targets
+regulators = ecoli_tf_names
+targets = ecoli_gene_names[!ecoli_gene_names %in% regulators]
+
+# filter matrices
+mr_filter = mr[rownames(mr) %in% targets, colnames(mr) %in% regulators]
+ar_filter = ar[rownames(ar) %in% targets, colnames(ar) %in% regulators]
+clr_filter = clr[rownames(clr) %in% targets, colnames(clr) %in% regulators]
+
+# write to output
+fwrite(as.data.frame(mr_filter, row.names = rownames(mr_filter)), here(bdir, "mrnet_weight_matrix.csv"), row.names = TRUE)
+fwrite(as.data.frame(ar_filter, row.names = rownames(ar_filter)), here(bdir, "aracne_weight_matrix.csv"), row.names = TRUE)
+fwrite(as.data.frame(clr_filter, row.names = rownames(clr_filter)), here(bdir, "clr_weight_matrix.csv"), row.names = TRUE)
 ```
