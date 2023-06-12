@@ -1,0 +1,80 @@
+---
+title: Benchmarking
+subtitle: Ayush Noori
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r setup, include = FALSE}
+# none
+```
+
+# Dependencies
+
+Load requisite packages and define directories. Note that this script uses my personal utilities package `brainstorm`, which can be downloaded via `devtools::install_github("ayushnoori/brainstorm")`.
+
+```{r load-packages, message=FALSE, warning=FALSE}
+# data manipulation
+library(data.table)
+library(purrr)
+library(magrittr)
+
+# string manipulation
+library(stringr)
+
+# gene network inference
+library(GENIE3)
+
+# utility functions
+library(brainstorm)
+library(here)
+```
+
+
+Note that directories are relative to the R project path.
+
+```{r define-directores}
+# set directories
+bdir = here("benchmarking")
+
+# read DREAM5 data
+ecoli_data = fread(here(bdir, "ecoli_data.csv"), header = TRUE)
+ecoli_gene_names = fread(here(bdir, "ecoli_gene_names.csv"))
+ecoli_tf_names = fread(here(bdir, "ecoli_tf_names.csv"))
+
+# read test data split
+test = fread(here(bdir, "test_dataset.csv"))
+```
+
+# GENIE3 Benchmarking
+
+Use GENIE3 to construct connectivity graph. Prepare data in `exprMat` format. Running on multiple cores requires the `doParallel` and `doRNG` packages.
+
+> "We chose the widely accepted random forest based GENIE3 along with information based ARACNE, CLR, and MRNET as the representative unsupervised methods in comparison."
+
+```{r genie3-benchmarking}
+# set row names
+expr_mtx = as.data.frame(ecoli_data[, -1])
+rownames(expr_mtx) = ecoli_data$Gene
+```
+
+Create weight matrix.
+
+```{r weight-matrix}
+# create weight matrix
+weights = GENIE3(as.matrix(expr_mtx), nCores = 10, verbose = T)
+```
+
+# Information-Based Benchmarking
+
+> "The implementation of ARACNE, CLR, and MRNEAT in R package `minet` is employed for analysis."
+
+```{r information-benchmarking}
+# load minet package
+library(minet)
+
+# run MINET calculations
+mr = minet(expr_mtx, method = "mrnet", estimator = "spearman")
+ar = minet(expr_mtx, method = "aracne", estimator = "spearman")
+clr = minet(expr_mtx, method = "clr", estimator = "spearman")
+```

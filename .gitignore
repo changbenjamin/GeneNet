@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+# ignore Mac OS X temporary files
+.DS_Store
+
+# ignore pycache
+__pycache__/
