@@ -9,3 +9,6 @@
 
 # ignore pycache
 __pycache__/
+
+# ignore virtualenv
+grgnn/
