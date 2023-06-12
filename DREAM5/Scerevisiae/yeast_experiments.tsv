@@ -1,0 +1,536 @@
+J. Shima	WT	Sugar stress during fermentation, 0% sucrose, high stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 0% sucrose, high stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 0% sucrose, low stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 0% sucrose, low stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 5% sucrose, high stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 5% sucrose, high stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 5% sucrose, low stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 5% sucrose, low stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 10% sucrose, high stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 10% sucrose, high stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 10% sucrose, low stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 10% sucrose, low stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 20% sucrose, high stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 20% sucrose, high stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 20% sucrose, low stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 20% sucrose, low stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 30% sucrose, high stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 30% sucrose, high stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 30% sucrose, low stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 30% sucrose, low stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 40% sucrose, high stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 40% sucrose, high stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 40% sucrose, low stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 40% sucrose, low stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 50% sucrose, high stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 50% sucrose, high stress, replicate 2
+J. Shima	WT	Sugar stress during fermentation, 50% sucrose, low stress, replicate 1
+J. Shima	WT	Sugar stress during fermentation, 50% sucrose, low stress, replicate 2
+J. Moxley	S288c	Wild type cells, YNB media, 10mM 3AT, replicate 1
+J. Moxley	S288c	Wild type cells, YNB media, 10mM 3AT, replicate 2
+J. Moxley	S288c	Wild type cells, YNB media, 10mM 3AT, replicate 3
+J. Moxley	S288c	D GCN4, YNB media, 10 mM 3AT, replicate 1
+J. Moxley	S288c	D GCN4, YNB media, 10 mM 3AT, replicate 2
+J. Moxley	S288c	D GCN4, YNB media, 10 mM 3AT, replicate 3
+J. Moxley	BY4741	Wild type cells,  0% ethanol, 20 g/L glucose, replicate 1
+J. Moxley	BY4741	Wild type cells,  0% ethanol, 20 g/L glucose, replicate 2
+J. Moxley	BY4741	Wild type cells,  0% ethanol, 20 g/L glucose, replicate 3
+J. Moxley	BY4741	Wild type cells,  5% ethanol, 60 g/L glucose, replicate 1
+J. Moxley	BY4741	Wild type cells,  5% ethanol, 60 g/L glucose, replicate 2
+J. Moxley	BY4741	Wild type cells,  5% ethanol, 60 g/L glucose, replicate 3
+J. Moxley	BY4741	SPT15 mutant,  0% ethanol, 20 g/L glucose, replicate 1
+J. Moxley	BY4741	SPT15 mutant,  0% ethanol, 20 g/L glucose, replicate 2
+J. Moxley	BY4741	SPT15 mutant,  0% ethanol, 20 g/L glucose, replicate 3
+J. Moxley	BY4741	SPT15 mutant,  5% ethanol, 60 g/L glucose, replicate 1
+J. Moxley	BY4741	SPT15 mutant,  5% ethanol, 60 g/L glucose, replicate 2
+J. Moxley	BY4741	SPT15 mutant,  5% ethanol, 60 g/L glucose, replicate 3
+G. Vemuri	CENPK1137D	Cells with pYX212 control plasmid, chemostat culture, critical dilution rate, replicate 1
+G. Vemuri	CENPK1137D	Cells with pYX212 control plasmid, chemostat culture, critical dilution rate, replicate 2
+G. Vemuri	CENPK1137D	Cells with pYX212 AOX plasmid, chemostat culture, critical dilution rate, replicate 1
+G. Vemuri	CENPK1137D	Cells with pYX212 AOX plasmid, chemostat culture, critical dilution rate, replicate 2
+G. Vemuri	CENPK1137D	Cells with pYX212 NOX plasmid, chemostat culture, critical dilution rate, replicate 1
+G. Vemuri	CENPK1137D	Cells with pYX212 NOX plasmid, chemostat culture, critical dilution rate, replicate 2
+M. Goebl	DBY2059	Wild type cells, stationary phase, replicate 1
+M. Goebl	DBY2059	Wild type cells, stationary phase, replicate 2
+M. Goebl	DBY2059	Wild type cells, stationary phase, replicate 3
+M. Goebl	DBY2059	Wild type cells, stationary phase, replicate 4
+M. Goebl	CDC34tm	CDC34tm cells, stationary phase, replicate 1
+M. Goebl	CDC34tm	CDC34tm cells, stationary phase, replicate 2
+M. Goebl	CDC34tm	CDC34tm cells, stationary phase, replicate 3
+M. Goebl	CDC34tm	CDC34tm cells, stationary phase, replicate 4
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 30min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 38min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 46min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 54min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 62min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 70min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 78min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 86min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 94min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 102min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 110min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 118min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 126min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 134min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 142min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 150min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 158min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 166min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 174min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 182min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 190min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 198min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 206min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 214min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 222min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 230min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 238min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 246min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 254min
+D. Orlando	BF264-15Dau	Wild type cells, YEP medium, t = 262min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 30min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 38min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 46min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 54min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 62min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 70min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 78min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 86min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 94min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 102min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 110min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 118min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 126min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 134min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 142min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 150min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 158min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 166min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 174min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 182min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 190min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 198min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 206min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 214min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 222min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 230min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 238min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 246min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 254min
+D. Orlando	BF264-15Dau	D CLB1 cells, YEP medium, t = 262min
+C. Lee	WT	Wild type cells, YPD medium, 0.25% glucose, replicate 1
+C. Lee	WT	Wild type cells, YPD medium, 0.25% glucose, replicate 2
+C. Lee	WT	Wild type cells, YPD medium, 0.25% glucose, replicate 3
+C. Lee	WT	Wild type cells, YPD medium, 0.5% glucose, replicate 1
+C. Lee	WT	Wild type cells, YPD medium, 0.5% glucose, replicate 2
+C. Lee	WT	Wild type cells, YPD medium, 0.5% glucose, replicate 3
+C. Lee	WT	Wild type cells, YPD medium, 1% glucose, replicate 1
+C. Lee	WT	Wild type cells, YPD medium, 1% glucose, replicate 2
+C. Lee	WT	Wild type cells, YPD medium, 1% glucose, replicate 3
+C. Lee	WT	Wild type cells, YPD medium, 2% glucose, replicate 1
+C. Lee	WT	Wild type cells, YPD medium, 2% glucose, replicate 2
+C. Lee	WT	Wild type cells, YPD medium, 2% glucose, replicate 3
+C. Li	IFO0233	Wild type cells, control, t = 830min
+C. Li	IFO0233	Wild type cells, control, t = 834min
+C. Li	IFO0233	Wild type cells, control, t = 838min
+C. Li	IFO0233	Wild type cells, control, t = 842min
+C. Li	IFO0233	Wild type cells, control, t = 846min
+C. Li	IFO0233	Wild type cells, control, t = 850min
+C. Li	IFO0233	Wild type cells, control, t = 854min
+C. Li	IFO0233	Wild type cells, control, t = 858min
+C. Li	IFO0233	Wild type cells, control, t = 862min
+C. Li	IFO0233	Wild type cells, control, t = 866min
+C. Li	IFO0233	Wild type cells, control, t = 870min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 874min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 878min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 882min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 886min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 890min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 894min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 898min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 902min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 906min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 910min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 914min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 918min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 922min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 926min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 930min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 934min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 938min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 942min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 946min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 950min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 954min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 958min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 962min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 966min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 970min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 974min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 978min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 982min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 986min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 990min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 994min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 998min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 1002min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 1006min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 1010min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 1014min
+C. Li	IFO0233	wild type cells, phenelzine treatment, t = 1018min
+B. Gibson	CB11	Wild type cells, fermentation culture, t = 8h, replicate 1
+B. Gibson	CB11	Wild type cells, fermentation culture, t = 8h, replicate 2
+B. Gibson	CB11	Wild type cells, fermentation culture, t = 8h, replicate 3
+B. Gibson	CB11	Wild type cells, fermentation culture, t = 30h, replicate 1
+B. Gibson	CB11	Wild type cells, fermentation culture, t = 30h, replicate 2
+B. Gibson	CB11	Wild type cells, fermentation culture, t = 60h, replicate 1
+B. Gibson	CB11	Wild type cells, fermentation culture, t = 60h, replicate 2
+B. Gibson	CB11	Wild type cells, fermentation culture, t = 60h, replicate 3
+B. Gibson	CB11	Wild type cells, propagation culture, t = 0h, replicate 1
+B. Gibson	CB11	Wild type cells, propagation culture, t = 0h, replicate 2
+B. Gibson	CB11	Wild type cells, propagation culture, t = 0h, replicate 3
+B. Gibson	CB11	Wild type cells, propagation culture, t = 8h, replicate 1
+B. Gibson	CB11	Wild type cells, propagation culture, t = 8h, replicate 2
+B. Gibson	CB11	Wild type cells, propagation culture, t = 8h, replicate 3
+B. Gibson	CB11	Wild type cells, propagation culture, t = 30h, replicate 1
+B. Gibson	CB11	Wild type cells, propagation culture, t = 30h, replicate 2
+B. Gibson	CB11	Wild type cells, propagation culture, t = 30h, replicate 3
+C. Sill	WT	Wild type cells, replicate 1
+C. Sill	WT	Wild type cells, replicate 2
+C. Sill	WT	D SUP2 cells, replicate 1
+C. Sill	WT	D SUP2 cells, replicate 2
+C. Sill	WT	D SUP2 cells, replicate 3
+C. Sill	WT	D ESA1 D SUP2 cells, replicate 1
+C. Sill	WT	D ESA1 D SUP2 cells, replicate 2
+C. Sill	WT	D ESA1 D SUP2 cells, replicate 3
+F. Meng	BY4742	Wild type cells, replicate 1
+F. Meng	BY4742	Wild type cells, replicate 2
+F. Meng	BY4742	Wild type cells, replicate 3
+F. Meng	BY4742	D SUA5 cells, streak 1, replicate 1
+F. Meng	BY4742	D SUA5 cells, streak 1, replicate 2
+F. Meng	BY4742	D SUA5 cells, streak 1, replicate 3
+F. Meng	BY4742	D SUA5 cells, streak 1, replicate 4
+F. Meng	BY4742	D SUA5 cells, streak 12, replicate 1
+F. Meng	BY4742	D SUA5 cells, streak 12, replicate 2
+F. Meng	BY4742	D SUA5 cells, streak 12, replicate 3
+B. Gibson	WT	Wild type cells, fermentation culture, t = 8h, replicate 1
+B. Gibson	WT	Wild type cells, fermentation culture, t = 8h, replicate 2
+B. Gibson	WT	Wild type cells, fermentation culture, t = 8h, replicate 3
+B. Gibson	WT	Wild type cells, fermentation culture, t = 30h, replicate 1
+B. Gibson	WT	Wild type cells, fermentation culture, t = 30h, replicate 2
+B. Gibson	WT	Wild type cells, fermentation culture, t = 60h, replicate 1
+B. Gibson	WT	Wild type cells, fermentation culture, t = 60h, replicate 2
+B. Gibson	WT	Wild type cells, fermentation culture, t = 60h, replicate 3
+B. Gibson	WT	Wild type cells, fermentation culture, t = 80h, replicate 1
+B. Gibson	WT	Wild type cells, fermentation culture, t = 80h, replicate 2
+B. Gibson	WT	Wild type cells, fermentation culture, t = 80h, replicate 3
+B. Gibson	WT	Wild type cells, fermentation culture, t = 102h, replicate 1
+B. Gibson	WT	Wild type cells, fermentation culture, t = 102h, replicate 2
+B. Gibson	WT	Wild type cells, fermentation culture, t = 102h, replicate 3
+M. Smerdon	WY121	Wild type cells, replicate 1
+M. Smerdon	WY121	Wild type cells, replicate 2
+M. Smerdon	WY121	Wild type cells, replicate 3
+M. Smerdon	WY121	H4 (R45H) mutant, replicate 1
+M. Smerdon	WY121	H4 (R45H) mutant, replicate 2
+M. Smerdon	WY121	H4 (R45H) mutant, replicate 3
+J. Hesselberth	R276	Wild type cells, no alpha factor control
+J. Hesselberth	R276	Wild type cells, alpha factor arrested
+D. Rossouw	285	Wild type cells, fermentation, exponential phase (day 2), replicate 1
+D. Rossouw	285	Wild type cells, fermentation, exponential phase (day 2), replicate 2
+D. Rossouw	285	Wild type cells, fermentation, exponential phase (day 2), replicate 3
+D. Rossouw	285	Wild type cells, fermentation, early stationary phase (day 5), replicate 1
+D. Rossouw	285	Wild type cells, fermentation, early stationary phase (day 5), replicate 2
+D. Rossouw	285	Wild type cells, fermentation, early stationary phase (day 5), replicate 3
+D. Rossouw	285	Wild type cells, fermentation, late stationary phase (day 14), replicate 1
+D. Rossouw	285	Wild type cells, fermentation, late stationary phase (day 14), replicate 2
+D. Rossouw	BM45	Wild type cells, fermentation, exponential phase (day 2), replicate 1
+D. Rossouw	BM45	Wild type cells, fermentation, exponential phase (day 2), replicate 2
+D. Rossouw	BM45	Wild type cells, fermentation, exponential phase (day 2), replicate 3
+D. Rossouw	BM45	Wild type cells, fermentation, early stationary phase (day 5), replicate 1
+D. Rossouw	BM45	Wild type cells, fermentation, early stationary phase (day 5), replicate 2
+D. Rossouw	BM45	Wild type cells, fermentation, early stationary phase (day 5), replicate 3
+D. Rossouw	BM45	Wild type cells, fermentation, late stationary phase (day 14), replicate 1
+D. Rossouw	BM45	Wild type cells, fermentation, late stationary phase (day 14), replicate 2
+D. Rossouw	DV10	Wild type cells, fermentation, exponential phase (day 2), replicate 1
+D. Rossouw	DV10	Wild type cells, fermentation, exponential phase (day 2), replicate 2
+D. Rossouw	DV10	Wild type cells, fermentation, exponential phase (day 2), replicate 3
+D. Rossouw	DV10	Wild type cells, fermentation, early stationary phase (day 5), replicate 1
+D. Rossouw	DV10	Wild type cells, fermentation, early stationary phase (day 5), replicate 2
+D. Rossouw	DV10	Wild type cells, fermentation, early stationary phase (day 5), replicate 3
+D. Rossouw	DV10	Wild type cells, fermentation, late stationary phase (day 14), replicate 1
+D. Rossouw	DV10	Wild type cells, fermentation, late stationary phase (day 14), replicate 2
+D. Rossouw	DV10	Wild type cells, fermentation, late stationary phase (day 14), replicate 3
+D. Rossouw	EC118	Wild type cells, fermentation, exponential phase (day 2), replicate 1
+D. Rossouw	EC118	Wild type cells, fermentation, exponential phase (day 2), replicate 2
+D. Rossouw	EC118	Wild type cells, fermentation, exponential phase (day 2), replicate 3
+D. Rossouw	EC118	Wild type cells, fermentation, early stationary phase (day 5), replicate 1
+D. Rossouw	EC118	Wild type cells, fermentation, early stationary phase (day 5), replicate 2
+D. Rossouw	EC118	Wild type cells, fermentation, early stationary phase (day 5), replicate 3
+D. Rossouw	EC118	Wild type cells, fermentation, late stationary phase (day 14), replicate 1
+D. Rossouw	EC118	Wild type cells, fermentation, late stationary phase (day 14), replicate 2
+D. Rossouw	EC118	Wild type cells, fermentation, late stationary phase (day 14), replicate 3
+D. Rossouw	VIN13	Wild type cells, fermentation, exponential phase (day 2), replicate 1
+D. Rossouw	VIN13	Wild type cells, fermentation, exponential phase (day 2), replicate 2
+D. Rossouw	VIN13	Wild type cells, fermentation, exponential phase (day 2), replicate 3
+D. Rossouw	VIN13	Wild type cells, fermentation, early stationary phase (day 5), replicate 1
+D. Rossouw	VIN13	Wild type cells, fermentation, early stationary phase (day 5), replicate 2
+D. Rossouw	VIN13	Wild type cells, fermentation, early stationary phase (day 5), replicate 3
+D. Rossouw	VIN13	Wild type cells, fermentation, late stationary phase (day 14), replicate 1
+D. Rossouw	VIN13	Wild type cells, fermentation, late stationary phase (day 14), replicate 2
+D. Rossouw	VIN13	Wild type cells, fermentation, late stationary phase (day 14), replicate 3
+O. Shalem	Y262	Wild type cells, DNA damage stress, t = 0min
+O. Shalem	Y262	Wild type cells, DNA damage stress, t = 30min
+O. Shalem	Y262	Wild type cells, DNA damage stress, t = 60min
+O. Shalem	Y262	Wild type cells, DNA damage stress, t = 100min
+O. Shalem	Y262	Wild type cells, DNA damage stress, t = 140min
+O. Shalem	Y262	Wild type cells, DNA damage stress, t = 180min
+O. Shalem	Y262	Wild type cells, oxidative stress, t = 0min
+O. Shalem	Y262	Wild type cells, oxidative stress, t = 30min
+O. Shalem	Y262	Wild type cells, oxidative stress, t = 60min
+O. Shalem	Y262	Wild type cells, oxidative stress, t = 100min
+O. Shalem	Y262	Wild type cells, oxidative stress, t = 140min
+O. Shalem	Y262	Wild type cells, oxidative stress, t = 180min
+O. Shalem	Y262	Wild type cells, DNA damage decay, control, t = 0min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, control, t = 0min, replicate 2
+O. Shalem	Y262	Wild type cells, DNA damage decay, control, t = 5min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, control, t = 10min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, control, t = 15min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, control, t = 20min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, control, t = 30min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, t = 0min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, t = 0min, replicate 2
+O. Shalem	Y262	Wild type cells, DNA damage decay, t = 5min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, t = 10min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, t = 15min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, t = 20min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, t = 30min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, t = 40min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, t = 50min, replicate 1
+O. Shalem	Y262	Wild type cells, DNA damage decay, t = 60min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, control, t = 0min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, control, t = 0min, replicate 2
+O. Shalem	Y262	Wild type cells, oxidative decay, control, t = 5min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, control, t = 10min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, control, t = 15min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, control, t = 20min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, control, t = 30min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, control, t = 40min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, control, t = 50min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, control, t = 60min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, t = 0min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, t = 0min, replicate 2
+O. Shalem	Y262	Wild type cells, oxidative decay, t = 5min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, t = 10min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, t = 15min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, t = 20min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, t = 30min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, t = 40min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, t = 50min, replicate 1
+O. Shalem	Y262	Wild type cells, oxidative decay, t = 60min, replicate 1
+F. Pizarro	CENPK1137D	Wild type cells, continuous anaerobic culture, 15C, replicate 1
+F. Pizarro	CENPK1137D	Wild type cells, continuous anaerobic culture, 15C, replicate 2
+F. Pizarro	CENPK1137D	Wild type cells, continuous anaerobic culture, 15C, replicate 3
+F. Pizarro	CENPK1137D	Wild type cells, continuous anaerobic culture, 30C, replicate 1
+F. Pizarro	CENPK1137D	Wild type cells, continuous anaerobic culture, 30C, replicate 2
+F. Pizarro	CENPK1137D	Wild type cells, continuous anaerobic culture, 30C, replicate 3
+F. Pizarro	EC1118	Wild type cells, continuous anaerobic culture, 15C, replicate 1
+F. Pizarro	EC1118	Wild type cells, continuous anaerobic culture, 15C, replicate 2
+F. Pizarro	EC1118	Wild type cells, continuous anaerobic culture, 15C, replicate 3
+F. Pizarro	EC1118	Wild type cells, continuous anaerobic culture, 30C, replicate 1
+F. Pizarro	EC1118	Wild type cells, continuous anaerobic culture, 30C, replicate 2
+F. Pizarro	EC1118	Wild type cells, continuous anaerobic culture, 30C, replicate 3
+E. Rintala	CENPL1131A	Wild type cells, 0% O2, replicate 1
+E. Rintala	CENPL1131A	Wild type cells, 0% O2, replicate 2
+E. Rintala	CENPL1131A	Wild type cells, 0% O2, replicate 3
+E. Rintala	CENPL1131A	Wild type cells, 0% O2, replicate 4
+E. Rintala	CENPL1131A	Wild type cells, 0.5% O2, replicate 1
+E. Rintala	CENPL1131A	Wild type cells, 0.5% O2, replicate 2
+E. Rintala	CENPL1131A	Wild type cells, 0.5% O2, replicate 3
+E. Rintala	CENPL1131A	Wild type cells, 0.5% O2, replicate 4
+E. Rintala	CENPL1131A	Wild type cells, 1% O2, replicate 1
+E. Rintala	CENPL1131A	Wild type cells, 1% O2, replicate 2
+E. Rintala	CENPL1131A	Wild type cells, 1% O2, replicate 3
+E. Rintala	CENPL1131A	Wild type cells, 1% O2, replicate 4
+E. Rintala	CENPL1131A	Wild type cells, 1% O2, replicate 5
+E. Rintala	CENPL1131A	Wild type cells, 1% O2, replicate 6
+E. Rintala	CENPL1131A	Wild type cells, 2.8% O2, replicate 1
+E. Rintala	CENPL1131A	Wild type cells, 2.8% O2, replicate 2
+E. Rintala	CENPL1131A	Wild type cells, 2.8% O2, replicate 3
+E. Rintala	CENPL1131A	Wild type cells, 2.8% O2, replicate 4
+E. Rintala	CENPL1131A	Wild type cells, 20.9% O2, replicate 1
+E. Rintala	CENPL1131A	Wild type cells, 20.9% O2, replicate 2
+E. Rintala	CENPL1131A	Wild type cells, 20.9% O2, replicate 3
+E. Rintala	CENPL1131A	Wild type cells, 20.9% O2, replicate 4
+C. Cheng	WT	Wild type cells, replicate 1
+C. Cheng	WT	Wild type cells, replicate 2
+C. Cheng	WT	Wild type cells, replicate 3
+C. Cheng	WT	D RAS2 cells, replicate 1
+C. Cheng	WT	D RAS2 cells, replicate 2
+C. Cheng	WT	D RAS2 cells, replicate 3
+C. Cheng	WT	D SCH9 cells, replicate 1
+C. Cheng	WT	D SCH9 cells, replicate 2
+C. Cheng	WT	D SCH9 cells, replicate 3
+C. Cheng	WT	D TOR1 cells, replicate 1
+C. Cheng	WT	D TOR1 cells, replicate 2
+C. Cheng	WT	D TOR1 cells, replicate 3
+C. Zhu	BY4741	Wild type cells, control, t = 0min, replicate 1
+C. Zhu	BY4741	Wild type cells, control, t = 0min, replicate 2
+C. Zhu	BY4741	Wild type cells, control, t = 0min, replicate 3
+C. Zhu	BY4741	Wild type cells, control, t = 20min, replicate 1
+C. Zhu	BY4741	Wild type cells, control, t = 20min, replicate 2
+C. Zhu	BY4741	Wild type cells, control, t = 20min, replicate 3
+C. Zhu	BY4741	D PBF1, t = 0min, replicate 1
+C. Zhu	BY4741	D PBF1, t = 0min, replicate 2
+C. Zhu	BY4741	D PBF1, t = 0min, replicate 3
+C. Zhu	BY4741	D PBF1, t = 20min, replicate 1
+C. Zhu	BY4741	D PBF1, t = 20min, replicate 2
+C. Zhu	BY4741	D PBF1, t = 20min, replicate 3
+C. Zhu	BY4741	D PBF2, t = 0min, replicate 1
+C. Zhu	BY4741	D PBF2, t = 0min, replicate 2
+C. Zhu	BY4741	D PBF2, t = 0min, replicate 3
+C. Zhu	BY4741	D PBF2, t = 20min, replicate 1
+C. Zhu	BY4741	D PBF2, t = 20min, replicate 2
+C. Zhu	BY4741	D PBF2, t = 20min, replicate 3
+C. Zhu	BY4741	D PBF1 D PBF2, t = 0min, replicate 1
+C. Zhu	BY4741	D PBF1 D PBF2, t = 0min, replicate 2
+C. Zhu	BY4741	D PBF1 D PBF2, t = 0min, replicate 3
+C. Zhu	BY4741	D PBF1 D PBF2, t = 20min, replicate 1
+C. Zhu	BY4741	D PBF1 D PBF2, t = 20min, replicate 2
+C. Zhu	BY4741	D PBF1 D PBF2, t = 20min, replicate 3
+A. Endo	X2180	Wild type cells, untreated, replicate 1
+A. Endo	X2180	Wild type cells, untreated, replicate 2
+A. Endo	NBRC1950	Vanillin resistant cells, untreated, replicate 1
+A. Endo	NBRC1950	Vanillin resistant cells, untreated, replicate 2
+S. Takahashi	BY4741	Wild type cells, freeze stress, 0 days, replicate 1
+S. Takahashi	BY4741	Wild type cells, freeze stress, 0 days, replicate 2
+S. Takahashi	BY4741	Wild type cells, freeze stress, 0 days, replicate 3
+S. Takahashi	BY4741	Wild type cells, freeze stress, 1 days, replicate 1
+S. Takahashi	BY4741	Wild type cells, freeze stress, 1 days, replicate 2
+S. Takahashi	BY4741	Wild type cells, freeze stress, 1 days, replicate 3
+S. Takahashi	BY4741	Wild type cells, freeze stress, 2 days, replicate 1
+S. Takahashi	BY4741	Wild type cells, freeze stress, 2 days, replicate 2
+S. Takahashi	BY4741	Wild type cells, freeze stress, 2 days, replicate 3
+A. Mitchell	BY4741	Wild type cells, untreated, replicate 1
+A. Mitchell	BY4741	Wild type cells, untreated, replicate 2
+A. Mitchell	BY4741	Wild type cells, heat shock, t = 30min
+A. Mitchell	BY4741	Wild type cells, heat shock, t = 45min
+A. Mitchell	BY4741	Wild type cells, osmotic stress, t = 30min
+A. Mitchell	BY4741	Wild type cells, osmotic stress, t = 45min
+A. Mitchell	BY4741	Wild type cells, oxidative stress, t = 15min
+A. Mitchell	BY4741	Wild type cells, oxidative stress, t = 30min
+A. Mitchell	BY4741	Wild type cells, oxidative stress, t = 45min
+A. Mitchell	BY4741	Wild type cells, oxidative stress, t = 90min
+A. Mitchell	BY4741	Wild type cells, heat shock followed by oxidative stress, t = 15min
+A. Mitchell	BY4741	Wild type cells, heat shock followed by oxidative stress, t = 30min
+A. Mitchell	BY4741	Wild type cells, heat shock followed by oxidative stress, t = 45min
+A. Mitchell	BY4741	Wild type cells, heat shock followed by oxidative stress, t = 90min
+A. Mitchell	BY4741	Wild type cells, heat shock followed by suspension in rich media, t = 15min
+A. Mitchell	BY4741	Wild type cells, heat shock followed by suspension in rich media, t = 45min
+A. Mitchell	BY4741	Wild type cells, osmotic stress followed by oxidative stress, t = 15min
+A. Mitchell	BY4741	Wild type cells, osmotic stress followed by oxidative stress, t = 30min
+A. Mitchell	BY4741	Wild type cells, osmotic stress followed by oxidative stress, t = 45min
+A. Mitchell	BY4741	Wild type cells, osmotic stress followed by oxidative stress, t = 90min
+A. Mitchell	BY4741	Wild type cells, osmotic stress followed by suspension in rich media, t = 15min
+A. Mitchell	BY4741	Wild type cells, osmotic stress followed by suspension in rich media, t = 45min
+J. Franken	BY4742	Wild type cells, untreated, replicate 1
+J. Franken	BY4742	Wild type cells, untreated, replicate 2
+J. Franken	BY4742	Wild type cells, 0.4 mM H2O2, replicate 1
+J. Franken	BY4742	Wild type cells, 0.4 mM H2O2, replicate 2
+J. Franken	BY4742	Wild type cells, carnitine 100 mg/L, replicate 1
+J. Franken	BY4742	Wild type cells, carnitine 100 mg/L, replicate 2
+J. Franken	BY4742	Wild type cells, carnitine 100 mg/L, 0.4 mM H2O2, replicate 1
+J. Franken	BY4742	Wild type cells, carnitine 100 mg/L, 0.4 mM H2O2, replicate 2
+K. Cusick	S288c	Wild type cells, untreated, replicate 1
+K. Cusick	S288c	Wild type cells, untreated, replicate 2
+K. Cusick	S288c	Wild type cells, untreated, replicate 3
+K. Cusick	S288c	Wild type cells, 16 uM saxitoxin, replicate 1
+K. Cusick	S288c	Wild type cells, 16 uM saxitoxin, replicate 2
+K. Cusick	S288c	Wild type cells, 16 uM saxitoxin, replicate 3
+K. Poorey	YPH499	Wild type cells, control, replicate 1
+K. Poorey	YPH499	Wild type cells, control, replicate 2
+K. Poorey	YPH499	Wild type cells, UV irradiation, t = 15min, replicate 1
+K. Poorey	YPH499	Wild type cells, UV irradiation, t = 15min, replicate 2
+K. Poorey	YPH499	Wild type cells, UV irradiation, t = 30min, replicate 1
+K. Poorey	YPH499	Wild type cells, UV irradiation, t = 30min, replicate 2
+K. Poorey	YPH499	Wild type cells, UV irradiation, t = 60min, replicate 1
+K. Poorey	YPH499	Wild type cells, UV irradiation, t = 60min, replicate 2
+K. Poorey	YPH499	D MIG, control, replicate 1
+K. Poorey	YPH499	D MIG, control, replicate 2
+K. Poorey	YPH499	D MIG, UV irradiation, t = 15min, replicate 1
+K. Poorey	YPH499	D MIG, UV irradiation, t = 30min, replicate 1
+K. Poorey	YPH499	D MIG, UV irradiation, t = 30min, replicate 2
+K. Poorey	YPH499	D MIG, UV irradiation, t = 60min, replicate 1
+K. Poorey	YPH499	D MIG, UV irradiation, t = 60min, replicate 2
+K. Poorey	YPH499	D RAD, control, replicate 1
+K. Poorey	YPH499	D RAD, control, replicate 2
+K. Poorey	YPH499	D RAD, UV irradiation, t = 30min, replicate 1
+K. Poorey	YPH499	D RAD, UV irradiation, t = 30min, replicate 2
+K. Poorey	YPH499	D RAD, UV irradiation, t = 60min, replicate 1
+K. Poorey	YPH499	D RAD, UV irradiation, t = 60min, replicate 2
+K. Poorey	YPH499	D RAD4, control, replicate 1
+K. Poorey	YPH499	D RAD4, control, replicate 2
+K. Poorey	YPH499	D RAD4, UV irradiation, t = 30min, replicate 1
+K. Poorey	YPH499	D RAD4, UV irradiation, t = 30min, replicate 2
+K. Poorey	YPH499	D RAD4, UV irradiation, t = 60min, replicate 1
+K. Poorey	YPH499	D RAD4, UV irradiation, t = 60min, replicate 2
+K. Poorey	YPH499	D SNF, control, replicate 1
+K. Poorey	YPH499	D SNF, control, replicate 2
+K. Poorey	YPH499	D SNF, UV irradiation, t = 15min, replicate 1
+K. Poorey	YPH499	D SNF, UV irradiation, t = 15min, replicate 2
+K. Poorey	YPH499	D SNF, UV irradiation, t = 30min, replicate 1
+K. Poorey	YPH499	D SNF, UV irradiation, t = 30min, replicate 2
+K. Poorey	YPH499	D SNF, UV irradiation, t = 60min, replicate 1
+K. Poorey	YPH499	D SNF, UV irradiation, t = 60min, replicate 2
+K. Poorey	YPH499	D SNF D RAD, control, replicate 1
+K. Poorey	YPH499	D SNF D RAD, control, replicate 2
+K. Poorey	YPH499	D SNF D RAD, UV irradiation, t = 30min, replicate 1
+K. Poorey	YPH499	D SNF D RAD, UV irradiation, t = 30min, replicate 2
+K. Poorey	YPH499	D SNF D RAD, UV irradiation, t = 60min, replicate 1
+K. Poorey	YPH499	D SNF D RAD, UV irradiation, t = 60min, replicate 2
+B. Li	WT	Wild type cells, untreated, replicate 1
+B. Li	WT	Wild type cells, untreated, replicate 2
+B. Li	WT	Wild type cells, acetic acid treatment, replicate 1
+B. Li	WT	Wild type cells, acetic acid treatment, replicate 2
+B. Li	WT	Wild type cells, furfural treatment, replicate 1
+B. Li	WT	Wild type cells, furfural treatment, replicate 2
+B. Li	WT	Wild type cells, phenol treatment, replicate 1
+B. Li	WT	Wild type cells, phenol treatment, replicate 2
+B. Li	WT	Acetic acid adapted strain, acetic acid treatment, replicate 1
+B. Li	WT	Acetic acid adapted strain, acetic acid treatment, replicate 2
+B. Li	WT	Acetic acid adapted strain, untreated, replicate 1
+B. Li	WT	Acetic acid adapted strain, untreated, replicate 2
+B. Li	WT	Furfural adapted strain, furfural treatment, replicate 1
+B. Li	WT	Furfural adapted strain, furfural treatment, replicate 2
+B. Li	WT	Furfural adapted strain, untreated, replicate 1
+B. Li	WT	Furfural adapted strain, untreated, replicate 2
+B. Li	WT	Phenol adapted strain, phenol treatment, replicate 1
+B. Li	WT	Phenol adapted strain, phenol treatment, replicate 2
+B. Li	WT	Phenol adapted strain, untreated, replicate 1
+B. Li	WT	Phenol adapted strain, untreated, replicate 2
+D. Heer	FT30	Wild type cells, 15mM furfural, replicate 1
+D. Heer	FT30	Wild type cells, 15mM furfural, replicate 2
+D. Heer	FT30	Wild type cells, 15mM furfural, replicate 3
+D. Heer	FT30	Wild type cells, 25mM furfural, replicate 1
+D. Heer	FT30	Wild type cells, 25mM furfural, replicate 2
+D. Heer	FT30	Wild type cells, 36mM furfural, replicate 1
+D. Heer	FT30	Wild type cells, 36mM furfural, replicate 2
+D. Heer	FT30	Wild type cells, 36mM furfural, replicate 3
+D. Heer	TMB3400	Wild type cells, 15mM furfural, replicate 1
+D. Heer	TMB3400	Wild type cells, 15mM furfural, replicate 2
+D. Heer	TMB3400	Wild type cells, 25mM furfural, replicate 1
+D. Heer	TMB3400	Wild type cells, 25mM furfural, replicate 2
+D. Heer	TMB3400	Wild type cells, 25mM furfural, replicate 3
+P. Belenky	BY4742	Wild type cells, untreated, t = 0min
+P. Belenky	BY4742	Wild type cells, untreated, t = 30min
+P. Belenky	BY4742	Wild type cells, untreated, t = 60min
+P. Belenky	BY4742	Wild type cells, untreated, t = 120min
+P. Belenky	BY4742	Wild type cells, 1 ug/L amphotericin B, t = 30min
+P. Belenky	BY4742	Wild type cells, 1 ug/L amphotericin B, t = 60min
+P. Belenky	BY4742	Wild type cells, 1 ug/L amphotericin B, t = 120min
+P. Belenky	BY4742	Wild type cells, 1mM H2O2, t = 30min
+P. Belenky	BY4742	Wild type cells, 1mM H2O2, t = 60min
+P. Belenky	BY4742	Wild type cells, 1mM H2O2, t = 120min
+P. Belenky	BY4742	Wild type cells, 50 ug/L miconazole, t = 120min
+P. Belenky	BY4742	Wild type cells, 50 ug/L miconazole, t = 300min
+P. Belenky	BY4742	Wild type cells, 50 ug/L miconazole, t = 480min
+P. Belenky	BY4742	Wild type cells, 50 ug/L ciclopirox, t = 300min
