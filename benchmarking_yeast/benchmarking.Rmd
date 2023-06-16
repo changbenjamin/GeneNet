@@ -35,12 +35,12 @@ Note that directories are relative to the R project path.
 
 ```{r define-directores}
 # set directories
-bdir = here("benchmarking")
+bdir = here("benchmarking_yeast")
 
 # read DREAM5 data
-ecoli_data = fread(here(bdir, "ecoli_data.csv"), header = TRUE)
-ecoli_gene_names = fread(here(bdir, "ecoli_gene_names.csv"), header = TRUE)[["0"]]
-ecoli_tf_names = fread(here(bdir, "ecoli_tf_names.csv"), header = TRUE)[["0"]]
+yeast_data = fread(here(bdir, "yeast_data.csv"), header = TRUE)
+yeast_gene_names = fread(here(bdir, "yeast_gene_names.csv"), header = TRUE)[["0"]]
+yeast_tf_names = fread(here(bdir, "yeast_tf_names.csv"), header = TRUE)[["0"]]
 
 # read test data split
 test = fread(here(bdir, "test_dataset.csv"))
@@ -54,12 +54,12 @@ Use GENIE3 to construct connectivity graph. Prepare data in `exprMat` format. Ru
 
 ```{r genie3-benchmarking}
 # set row names
-expr_mtx = as.data.frame(ecoli_data[, -1])
-rownames(expr_mtx) = ecoli_data$Gene
+expr_mtx = as.data.frame(yeast_data[, -1])
+rownames(expr_mtx) = yeast_data$Gene
 
 # calculate regulators and targets
-regulators = ecoli_tf_names
-targets = ecoli_gene_names[!ecoli_gene_names %in% regulators]
+regulators = yeast_tf_names
+targets = yeast_gene_names[!yeast_gene_names %in% regulators]
 ```
 
 Create weight matrix.
